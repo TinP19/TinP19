@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub! 👋
+# Hello! Welcome to my GitHub! 👋
 
 ## About Me
 - My name is Thinh Pham, a current MIT student majoring in Course 6-3 (Computer Science & Engineering), and I am passionate about software engineering, development, machine learning, and problem solving.
