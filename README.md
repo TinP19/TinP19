@@ -7,9 +7,9 @@
 
 ## Fun Facts
 - I'm a first generation college student.
-- I love martial arts, and I have been practicing for 8+ years!
-- I was born in Vietnam.
-- I love binge watching shows, movies, and manga books.
+- My favorite hobby is martial arts, and I have been practicing for 8+ years!
+- I'm a Vietnamese American, originally born in Vietnam.
+- In my free time, I love binge watching shows, movies, and manga books.
 
 ## Contact Me
 - **Personal Email**: thinhpham6824@gmail.com
